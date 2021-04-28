@@ -1,0 +1,13 @@
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\bin\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.exe
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\bin\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.deps.json
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\bin\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.runtimeconfig.json
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\bin\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.runtimeconfig.dev.json
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\bin\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.dll
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\bin\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.pdb
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.csprojAssemblyReference.cache
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.csproj.CoreCompileInputs.cache
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.AssemblyInfoInputs.cache
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.AssemblyInfo.cs
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.dll
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.pdb
+C:\Users\Jon\source\repos\TravellingSalespersonProblem_Greedy\obj\Debug\netcoreapp3.1\TravellingSalespersonProblem_Greedy.genruntimeconfig.cache

@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v3.1",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "TravellingSalespersonProblem_Greedy/1.0.0": {
+        "runtime": {
+          "TravellingSalespersonProblem_Greedy.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "TravellingSalespersonProblem_Greedy/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}
